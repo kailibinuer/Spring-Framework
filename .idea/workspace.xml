@@ -1,5 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03456741-7985-4dd5-9439-c3467d6a8c81" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Spring-01-SpringContainer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-SpringContainer/src/main/java/CyberApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-SpringContainer/src/main/java/interfaces/Mentor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-SpringContainer/src/main/java/services/FullTimeMentor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-SpringContainer/src/main/java/services/PartTimeMentor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-SpringContainer/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/java/com/cyber/CyberApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/java/com/cyber/interfaces/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/java/com/cyber/interfaces/ExtraSessions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/java/com/cyber/services/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/java/com/cyber/services/OfficeHours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/java/com/cyber/services/Selenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/src/main/java/com/cyber/CyberApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/src/main/java/com/cyber/interfecas/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/src/main/java/com/cyber/interfecas/ExtraSessions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/src/main/java/com/cyber/services/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/src/main/java/com/cyber/services/OfficeHours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/src/main/java/com/cyber/services/Selenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/src/main/java/com/cyber/CyberApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/src/main/java/com/cyber/interfaces/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/src/main/java/com/cyber/services/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/src/main/java/com/cyber/services/Selenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-04-BeanLifeCycle-IntAndDestroyMethod/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-04-BeanLifeCycle-IntAndDestroyMethod/src/main/java/com/cyber/CyberApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-04-BeanLifeCycle-IntAndDestroyMethod/src/main/java/com/cyber/interfaces/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-04-BeanLifeCycle-IntAndDestroyMethod/src/main/java/com/cyber/services/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-04-BeanLifeCycle-IntAndDestroyMethod/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/src/main/java/com/cyber/CyberApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/src/main/java/com/cyber/interfaces/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/src/main/java/com/cyber/interfaces/Extrasessions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/src/main/java/com/cyber/services/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/src/main/java/com/cyber/services/OfficeHours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/src/main/java/com/cyber/services/Selenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Components/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Components/src/main/java/com/cyber/CyberApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Components/src/main/java/com/cyber/interfaces/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Components/src/main/java/com/cyber/services/Api.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Components/src/main/java/com/cyber/services/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Components/src/main/java/com/cyber/services/Selenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Components/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifier/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifier/src/main/java/com/cyber/CyberApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifier/src/main/java/com/cyber/interfaces/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifier/src/main/java/com/cyber/interfaces/Extrasessions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifier/src/main/java/com/cyber/services/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifier/src/main/java/com/cyber/services/MockInterviewHours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifier/src/main/java/com/cyber/services/OfficeHours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifier/src/main/java/com/cyber/services/Selenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifier/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Value/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Value/src/main/java/com/cyber/CyberApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Value/src/main/java/com/cyber/interfaces/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Value/src/main/java/com/cyber/interfaces/Extrasessions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Value/src/main/java/com/cyber/services/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Value/src/main/java/com/cyber/services/MockInterviewHours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Value/src/main/java/com/cyber/services/OfficeHours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Value/src/main/java/com/cyber/services/Selenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Value/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Value/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-JavaCode-Configuration/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-JavaCode-Configuration/src/main/java/com/cyber/CyberApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-JavaCode-Configuration/src/main/java/com/cyber/configs/CyberAppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-JavaCode-Configuration/src/main/java/com/cyber/interfaces/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-JavaCode-Configuration/src/main/java/com/cyber/interfaces/ExtraSessions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-JavaCode-Configuration/src/main/java/com/cyber/services/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-JavaCode-Configuration/src/main/java/com/cyber/services/OfficeHours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-JavaCode-Configuration/src/main/java/com/cyber/services/Selenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-JavaCode-Configuration/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-JavaCode-PostConstruct-PreDestroy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-JavaCode-PostConstruct-PreDestroy/src/main/java/com/cyber/CyberApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-JavaCode-PostConstruct-PreDestroy/src/main/java/com/cyber/configs/CyberAppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-JavaCode-PostConstruct-PreDestroy/src/main/java/com/cyber/interfaces/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-JavaCode-PostConstruct-PreDestroy/src/main/java/com/cyber/services/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-06-JavaCode-PostConstruct-PreDestroy/src/main/java/com/cyber/services/Selenium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -7,10 +122,249 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectId" id="1jemmPs3wh7dihzTGjpCKQJ0IYq" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="D:/JavaStudy" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Spring-06-JavaCode-PostConstruct-PreDestroy/src/main/java" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaJavaJava\Spring-Framework\Spring-06-JavaCode-PostConstruct-PreDestroy\src\main\java" />
+      <recent name="D:\JavaJavaJava\Spring-Framework\Spring-06-JavaCode-Configuration\src\main\resources" />
+      <recent name="D:\JavaJavaJava\Spring-Framework\Spring-06-JavaCode-Configuration\src\main\java" />
+      <recent name="D:\JavaJavaJava\Spring-Framework\Spring-05-JavaAnnotations-Value\src\main\resources" />
+      <recent name="D:\JavaJavaJava\Spring-Framework\Spring-05-JavaAnnotations-Value\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Spring07SpringBootDemoApplication">
+    <configuration name="CyberApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cyber.CyberApp" />
+      <module name="Spring-06-JavaCode-PostConstruct-PreDestroy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyberApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CyberApp" />
+      <module name="Spring-01-SpringContainer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyberApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cyber.CyberApp" />
+      <module name="Spring-06-JavaCode-Configuration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyberApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cyber.CyberApp" />
+      <module name="Spring-02-DI-ConstructorInjection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyberApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cyber.CyberApp" />
+      <module name="Spring-02-DI-SetterInjection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyberApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cyber.CyberApp" />
+      <module name="Spring-03-BeanScope-Singleton-Prototype" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyberApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cyber.CyberApp" />
+      <module name="Spring-04-BeanLifeCycle-IntAndDestroyMethod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyberApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cyber.CyberApp" />
+      <module name="Spring-05-JavaAnnotations-Autowired" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyberApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cyber.CyberApp" />
+      <module name="Spring-05-JavaAnnotations-Components" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyberApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cyber.CyberApp" />
+      <module name="Spring-05-JavaAnnotations-Qualifier" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyberApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cyber.CyberApp" />
+      <module name="Spring-05-JavaAnnotations-Value" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spring07SpringBootDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Spring-07-SpringBoot-Demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyber.Spring07SpringBootDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CyberApp (1)" />
+        <item itemvalue="Application.CyberApp (1)" />
+        <item itemvalue="Application.CyberApp (1)" />
+        <item itemvalue="Application.CyberApp (1)" />
+        <item itemvalue="Application.CyberApp (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03456741-7985-4dd5-9439-c3467d6a8c81" name="Default Changelist" comment="" />
+      <created>1604173089775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604173089775</updated>
+      <workItem from="1604173090844" duration="3357000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1604173469076">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1604173469076" />
+    <state x="549" y="127" key="FileChooserDialogImpl" timestamp="1604173390619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="127" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604173390619" />
+    <state width="1493" height="191" key="GridCell.Tab.0.bottom" timestamp="1604176463598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604176463598" />
+    <state width="1493" height="191" key="GridCell.Tab.0.center" timestamp="1604176463597">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604176463597" />
+    <state width="1493" height="191" key="GridCell.Tab.0.left" timestamp="1604176463597">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604176463597" />
+    <state width="1493" height="191" key="GridCell.Tab.0.right" timestamp="1604176463598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604176463598" />
+    <state x="209" y="33" key="new project wizard" timestamp="1604176223681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1604176223681" />
   </component>
 </project>
